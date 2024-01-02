@@ -1,5 +1,5 @@
 # CVEs
-Repository regarding my security research
+Repository regarding my security research. Detailed proof of concept will be written on [my blog](https://kos0ng.gitbook.io/blog/).
 
 ### List CVEs
 1. **Oracle** (CVE-2021-2461) - Oracle Communications Interactive Session Recorder 6.4 Provision API Remote Code Execution
